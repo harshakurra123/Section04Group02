@@ -4,10 +4,10 @@
 ** STUDENT REGISTRATION **
 
 ### Our Team
-** HARSHAVARDHAN KURRA  **
-** RAHUL DASARI **
-** ABHILASH DHUMALA **
-** ARNAV AKULA **
+** HARSHAVARDHAN KURRA  ** <br>
+** RAHUL DASARI ** <br>
+** ABHILASH DHUMALA ** <br>
+** ARNAV AKULA ** <br>
 
 ### Project Charter
 
