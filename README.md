@@ -1,7 +1,7 @@
 # pm-s04-g02-project
 
 ### > Our Project
-**STUDENT REGISTRATION**
+**AUTOMOTIVE ACCESSORIES**
 
 ### > Our Team
 - **HARSHAVARDHAN KURRA**<br>
