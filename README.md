@@ -4,7 +4,7 @@
 **STUDENT REGISTRATION**
 
 ### Our Team
-**HARSHAVARDHAN KURRA** ![](images/harsha_kurra.jpg =250x) <br>
+**HARSHAVARDHAN KURRA** ![](images/harsha_kurra.jpg) { width=50% } <br>
 
 **RAHUL DASARI** <br>
 **ABHILASH DHUMALA** <br>
