@@ -16,5 +16,8 @@
 ### > Scope
 
 ### > Schedule
+- Start date 05/25/2021
+- End date 08/24/2021
+- Duration 14Weeks
 
 ### > Budget
