@@ -1,7 +1,7 @@
-**Project Title:** AUTOMOTIVE ACCESSORIES<br>
+**Project Title:** TYRE SUPPLIERS<br>
 <hr/>
 
-**Project Start Date:** 05/25/2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Projected Finish Date:** 08/24/2021
+**Project Start Date:** 05/25/2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Projected Finish Date:** 10/01/2021
 <hr/>
 
 **Budget Information:** $70,000
@@ -12,10 +12,10 @@
 **E-mail:** S542295@nwmissouri.edu 
 <hr/>
 
-**Project Objectives:** The main objective of the project is to develop a web site for Automotive Accessories which has all varieties of Car accessories. 
+**Project Objectives:** The main objective of the project is to develop a web site for Tyre Suppliers which has all varieties of tyres. 
 <hr/>
 
-**Success Criteria:** The project goal may be defined to develop a website for Automotive Accessories. 
+**Success Criteria:** The project goal may be defined to develop a website for Tyres. 
 <hr/>
 
 **Approach:** We'd like to complete the project on time and on budget using the agile methodology. 
