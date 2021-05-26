@@ -4,7 +4,7 @@
 **Project Start Date:** 05/25/2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Projected Finish Date:** 08/24/2021
 <hr/>
 
-**Budget Information:** $60,000 - $75,000
+**Budget Information:** $70,000
 <hr/>
 
 **Project Manager:** Abhilash Dhumala <br>
