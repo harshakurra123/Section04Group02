@@ -1,7 +1,7 @@
 **Project Title:** TYRE SUPPLIERS<br>
 <hr/>
 
-**Project Start Date:** 05/25/2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Projected Finish Date:** 08/31/2021
+**Project Start Date:** 05/25/2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Projected Finish Date:** 10/01/2021
 <hr/>
 
 **Budget Information:** $70,000

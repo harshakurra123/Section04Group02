@@ -52,7 +52,7 @@ For more details click on the following link
 
 ## > SCHEDULE
 - Start date 05/25/2021
-- End date 08/31/2021
+- End date 10/1/2021
 - Duration 14Weeks
 
 ## > BUDGET
