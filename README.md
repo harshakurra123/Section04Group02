@@ -4,7 +4,7 @@
 **Project Title:** TYRE SUPPLIERS    <br>
 Get your car rolling in style
 
-The Main Objective of the project is to create a website for sales in tyres. It has several logins, such as admin, customer, warhouse incharge, retailer etc. Admin gives access to the users, based on their role. Retailer posts all the tyres which are available in warehouse. Warehouse Incharge takes care of order management for their shipment.
+The Main Objective of the project is to create a website for sales in tyres. It has web pages where admin can add tyres, update tyre description / values, delete tyres and list the tyres available. 
 
 ## > OUR TEAM
 - **HARSHAVARDHAN KURRA**<br>
