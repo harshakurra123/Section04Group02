@@ -24,4 +24,4 @@
 - Total project Value is $70,000
 - Total Project Cost is $34,400
 - Estimated Profits is $35,600
-- <img src="desktop/Budget.jpg" alt="budget" width="600" height="400">
+- <img src="images/Budget.jpg" alt="budget" width="600" height="400">
