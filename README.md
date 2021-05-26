@@ -53,7 +53,7 @@ For more details click on the following link
 ## > SCHEDULE
 - Start date 05/25/2021
 - End date 10/1/2021
-- Duration 14Weeks
+- Duration 14Weeks 
 
 ## > BUDGET
 - Total project Value is $70,000
