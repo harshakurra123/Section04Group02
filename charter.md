@@ -37,3 +37,6 @@
 ### HARSHAVARDHAN KURRA 
 
 ### ARNAV AKULA 
+
+**References**
+[https://www.projectmanager.com/blog/project-charter](https://www.projectmanager.com/blog/project-charter)
