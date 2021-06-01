@@ -1,10 +1,10 @@
 # pm-s04-g02-project
 
 ## > OUR PROJECT
-**Project Title:** AUTOMOTIVE ACCESSORIES    <br>
+**Project Title:** TYRE SUPPLIERS    <br>
 Get your car rolling in style
 
-The Main Objective of the project is to create a website for sales in automotive accessories. It has several logins, such as admin, customer, warhouse incharge, retailer etc. Admin gives access to the users, based on their role. Retailer posts all the spare parts which are available in warehouse. Warehouse Incharge takes care of order management for their shipment.
+The Main Objective of the project is to create a website for sales in tyres. It has web pages where admin can add tyres, update tyre description / values, delete tyres and list the tyres available. 
 
 ## > OUR TEAM
 - **HARSHAVARDHAN KURRA**<br>
@@ -52,11 +52,19 @@ For more details click on the following link
 
 ## > SCHEDULE
 - Start date 05/25/2021
-- End date 10/1/2021
+- End date 08/24/2021
 - Duration 14Weeks
+<img src="images/ganttchart1.jpg" alt="Schedule1" width="800" height="400">
+<img src="images/ganttchart2.jpg" alt="Schedule2" width="800" height="400">
 
 ## > BUDGET
 - Total project Value is $70,000
 - Total Project Cost is $34,400
 - Estimated Profits is $35,600
 - <img src="images/Budget.jpg" alt="budget" width="800" height="400">
+
+
+**Reference links:** <br>
+[http://www.heminsleytiger.com/business-journal/wp-content/uploads/tyre-tech.-chem-manufacturing-and-distribution.pdf](http://www.heminsleytiger.com/business-journal/wp-content/uploads/tyre-tech.-chem-manufacturing-and-distribution.pdf)
+
+[https://www.miningweekly.com/article/tyre-management-project-yields-positive-results-for-producer-2016-08-19/rep_id:3650](https://www.miningweekly.com/article/tyre-management-project-yields-positive-results-for-producer-2016-08-19/rep_id:3650)
