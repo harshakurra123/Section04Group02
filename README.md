@@ -52,11 +52,19 @@ For more details click on the following link
 
 ## > SCHEDULE
 - Start date 05/25/2021
-- End date 10/1/2021
-- Duration 14Weeks 
+- End date 08/24/2021
+- Duration 14Weeks
+<img src="images/Schedule1.jpg" alt="Schedule1" width="800" height="400">
+<img src="images/Schedule2.jpg" alt="Schedule2" width="800" height="400">
 
 ## > BUDGET
 - Total project Value is $70,000
 - Total Project Cost is $34,400
 - Estimated Profits is $35,600
 - <img src="images/Budget.jpg" alt="budget" width="800" height="400">
+
+
+**Reference links:** <br>
+[http://www.heminsleytiger.com/business-journal/wp-content/uploads/tyre-tech.-chem-manufacturing-and-distribution.pdf](http://www.heminsleytiger.com/business-journal/wp-content/uploads/tyre-tech.-chem-manufacturing-and-distribution.pdf)
+
+[https://www.miningweekly.com/article/tyre-management-project-yields-positive-results-for-producer-2016-08-19/rep_id:3650](https://www.miningweekly.com/article/tyre-management-project-yields-positive-results-for-producer-2016-08-19/rep_id:3650)
