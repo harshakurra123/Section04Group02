@@ -8,7 +8,7 @@
 <hr/>
 
 **Project Manager:** Abhilash Dhumala <br>
-**Phone:** 660-528-0259  
+**Phone:** 660-869-1382
 **E-mail:** S542295@nwmissouri.edu 
 <hr/>
 
