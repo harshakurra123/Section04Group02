@@ -23,7 +23,7 @@
 **Approach:** We'd like to complete the project on time and on budget using the agile methodology. 
 <hr/>
 
-**Roles**
+**Roles & Responsibilities**
 | Name and Signature | Role | Contact Information |
 | ------------------ | ---- | ------------------- |
 | Abhilash Dhumala | Project Manager | S542295@nwmissouri.edu |
