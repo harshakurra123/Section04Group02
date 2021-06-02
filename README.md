@@ -66,6 +66,8 @@ For more details click on the following link
 
 
 **Reference links:** <br>
+[https://www.projectmanager.com/blog/project-charter](https://www.projectmanager.com/blog/project-charter)
+
 [http://www.heminsleytiger.com/business-journal/wp-content/uploads/tyre-tech.-chem-manufacturing-and-distribution.pdf](http://www.heminsleytiger.com/business-journal/wp-content/uploads/tyre-tech.-chem-manufacturing-and-distribution.pdf)
 
 [https://www.miningweekly.com/article/tyre-management-project-yields-positive-results-for-producer-2016-08-19/rep_id:3650](https://www.miningweekly.com/article/tyre-management-project-yields-positive-results-for-producer-2016-08-19/rep_id:3650)
