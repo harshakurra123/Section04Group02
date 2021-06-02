@@ -53,7 +53,7 @@ For more details click on the following link
 ## > SCHEDULE
 - Start date 05/25/2021
 - End date 08/24/2021
-- Duration 14Weeks
+- Duration 14 Weeks
 <img src="images/ganttchart1.jpg" alt="Schedule1" width="800" height="400">
 <img src="images/ganttchart2.jpg" alt="Schedule2" width="800" height="400">
 
